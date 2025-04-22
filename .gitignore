@@ -52,3 +52,7 @@ Thumbs.db
 
 # DB設定など機密
 src/main/resources/application.properties
+
+.env
+*.env
+*.properties
